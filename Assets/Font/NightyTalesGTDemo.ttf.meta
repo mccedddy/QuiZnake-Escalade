@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dc315f4db982ca54892a4254af81fe91
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nighty Tales GT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b88702dbe01f2894d8bc35fdd9b3d74c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

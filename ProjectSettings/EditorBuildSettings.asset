@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash Screens/SplashScreenLogo.unity
+    guid: 064e8ef2503443b47b42486510cb49db
+  - enabled: 1
+    path: Assets/Scenes/Splash Screens/SplashScreenLoading.unity
+    guid: 06d2b4662caef42468d192c6b4d0f76f
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 51061fec4644d46448960114d1bda326
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 24a0fb297fb29ed4ba9c42ad54ac6a43
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: ddfd55427bb1b5c489fb78e3658022dc
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: e51fc724133ee76428424792a9005649
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 6cb8c2b106aaec547a4da98719e0b99e
+  - enabled: 1
+    path: Assets/Scenes/Profile.unity
+    guid: 188af19903114a347b0191ebad6c65d4
+  - enabled: 1
+    path: Assets/Scenes/Stages/DifficultySelect1.unity
+    guid: 72ecc7389d9fef34b9238142134abe89
+  - enabled: 1
+    path: Assets/Scenes/Stages/DifficultySelect2.unity
+    guid: 4b27494f2d11f5144812300f73ccc9e8
+  - enabled: 1
+    path: Assets/Scenes/Stages/DifficultySelect3.unity
+    guid: 81c3f9decaa2ed54b9c29aaa00a10731
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage1-easy.unity
+    guid: a1bef9813496c684baedc7cc6056c9b4
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage1-medium.unity
+    guid: a1966b09c7dd18242aa61a2a063f2d25
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage1-hard.unity
+    guid: 342db57cd328e3640b5fb3bdc4a30688
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage2-easy.unity
+    guid: 0654a5d2ee07ef24eaa46864e3076acd
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage2-medium.unity
+    guid: 06bea489e3030b8459bfe1a6bc2ca5dd
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage2-hard.unity
+    guid: e6e66bed625acfa4db0f18358650f4de
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage3-easy.unity
+    guid: 5340e944b8fe8e0479c71d2371eaec25
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage3-medium.unity
+    guid: 9a4409228f570804d9d33c7334756ce9
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage3-hard.unity
+    guid: 298b11ef50e1a404abb9f0353576edd6
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 76dbae45739d5fd40bf14ba8deb6fb9d
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: de01c6db3978df64790fcdbd8fb36e01
+  m_configObjects: {}

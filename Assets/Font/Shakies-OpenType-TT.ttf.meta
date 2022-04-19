@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0fbc8cc878dd53c4283d865d323b2107
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shakies
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 42078a26070e11545adbac92673f5f41, type: 3}
+  - {fileID: 12800000, guid: d2cba5a0d7cc89441bb2d01968c1a3a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
